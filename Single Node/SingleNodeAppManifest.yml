@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+        name: item-web-page
+spec:
+        containers:
+        - name: item-web-page01
+          image: renato01011/singlenodeapp
+          ports:
+          - containerPort: 6379
