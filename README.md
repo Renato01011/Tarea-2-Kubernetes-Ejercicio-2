@@ -17,3 +17,7 @@ Además de esta primera app, y debido a que esta es considerablemente simple, ha
 La siguiente imagen muestra esta app:
 
 ![Multi Node App](https://github.com/Renato01011/Tarea-2-Kubernetes-Ejercicio-2/blob/main/Images/MultiNode.png)
+
+Link de Referencia:
+
+https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
